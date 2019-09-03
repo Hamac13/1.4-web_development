@@ -1,0 +1,190 @@
+* {
+
+    text-align: center;
+    margin: 0 auto;
+    overflow-x: hidden;
+    font-family: 'Muli', sans-serif;
+}
+
+html {
+    background-color: #8DB788;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+
+    color: rgb(0, 0, 0);
+}
+
+.nav {
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    color: white;
+    border: 5px solid #331a00;
+    border-bottom: -20px;
+}
+
+a {
+    color: white;
+    font-size: 150%;
+    margin: 20px;
+    text-decoration: none;
+    margin: 10px 60px 10px 60px;
+}
+
+
+
+a:visited {
+    color: #A7A2A9;
+    text-decoration: inherit;
+}
+
+a:hover {
+    color: #73A580;
+}
+
+.model {
+
+    height: 40vh;
+    width: 50vh;
+    background-color: white;
+    border: 1px solid blue;
+
+}
+
+.page_title {
+    font-size: 69px;
+}
+
+p {}
+
+.container {
+    background-color: #08090A;
+    width: 95%;
+    border: 10px solid #331a00;
+    border-bottom: -5px;
+    margin: auto;
+    height: auto;
+    margin-top: 10px;
+}
+
+greenhouse_effect {
+    color: #E0EDC5;
+    margin: 20% 5px 2px 0px;
+}
+
+greenhouse_effect p {
+    margin-top: 50px;
+    font-size: 180%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+greenhouse_effect h1 {
+    color: #E0EDC5;
+    font-size: 50px;
+}
+
+
+
+ul {
+    list-style-type: none;
+}
+
+greenhouse_gases {
+    margin: 20px 5px 2px 5px;
+}
+
+greenhouse_gases h1 {
+    color: #E0EDC5;
+    margin-top: 110px;
+    font-size: 50px;
+}
+
+greenhouse_gases li {
+    padding: 5px;
+    color: #E0EDC5;
+    margin-top: 50px;
+    font-size: 180%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+
+
+greenhouse_gases p {
+    color: #E0EDC5;
+    margin-top: 50px;
+    font-size: 180%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.footer {
+    background-color: black;
+    width: 100%;
+    height: 200px;
+}
+
+.background {
+    height="40%"
+}
+
+.container1 {
+    background-color: #08090A;
+    width: 95%;
+    border: 10px solid #331a00;
+    border-bottom: -5px;
+    margin: auto;
+    height: auto;
+    margin-top: 500px;
+    height: auto;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.container1 h1 {
+    color: #E0EDC5;
+    font-size: 50px;
+    margin-top: 50px
+}
+
+.container1 p {
+    margin-top: 50px;
+    font-size: 180%;
+    margin-right: 15%;
+    margin-left: 15%;
+    color: #E0EDC5;
+}
+
+.footer h1 {
+    color: white;
+    text-align: left;
+}
+
+.container2 {
+    background-color: #08090A;
+    width: 95%;
+    border: 10px solid #331a00;
+    border-bottom: -5px;
+    margin: auto;
+    height: auto;
+    margin-top: 500px;
+    height: auto;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.container2 h1 {
+    color: #E0EDC5;
+    font-size: 50px;
+    margin-top: 50px
+}
+.container2 p{
+    margin-top: 50px;
+    font-size: 180%;
+    margin-right: 15%;
+    margin-left: 15%;
+    color: #E0EDC5;
+    margin-bottom: 50px
+}
